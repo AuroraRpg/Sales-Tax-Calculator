@@ -52,3 +52,4 @@ sales_tax_rates = {
 "WI":0.05,
 "WY":0.04,
 }
+
